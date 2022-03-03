@@ -4,7 +4,7 @@ DiscoDiffusion 4.1 for AWS StudioLab
 ## Instructions:
 1. Create account on AWS StudioLab: https://studiolab.sagemaker.aws
 2. Get a GPU runtime up and running
-3. Create a folder called "content" in your root folder
+3. Create a folder called "content" in your /home/studio-lab-user/ folder
 4. Upload this .ipynb file to that folder
 5. Set parameters, enter prompts, and run all!
 
